@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Dave Ishii こんにちは！私は石井大輔です。
+### Hi 👋 My name is Dave Ishii 
 
 Hello. I'm Daisuke Ishii.
 Call me "Dave" - This is easy to pronounce. デイブとお呼びください。
