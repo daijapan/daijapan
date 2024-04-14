@@ -1,4 +1,10 @@
 ### Hi there 👋 My name is Dave Ishii こんにちは！私は石井大輔です。
+#coming soon
+#5W1H
+#Issues
+#Publication
+#Media
+#Blog
 
 <!--
 **daijapan/daijapan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
