@@ -3,6 +3,14 @@
 <!--
 **daijapan/daijapan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+#coming soon
+#5W1H
+#Issues
+#Publication
+#Media
+#Blog
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
