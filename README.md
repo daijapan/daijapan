@@ -86,3 +86,71 @@ Mathematical AI • Accessibility • LLMs • Formal Verification • Optimizat
 ## One Sentence
 
 **Building the mathematics that expands human capability through AI.**
+
+# Research Program
+
+> **Research Question**
+>
+> **What are the mathematical limits of AI-enabled accessibility, and how can mathematical structures expand human capability?**
+
+---
+
+## A. Mathematical Foundations
+
+Building the mathematical structures underlying reliable AI systems.
+
+- Intersection Cohomology and Canonical Lattices on Toric Varieties
+- Geometric Localization of Relation Lattices
+- Canonical Lattices and Integer Relations Associated to Rational Fans
+- The Intersection Cohomology of a Fan and the Hodge Conjecture for Toric Varieties
+
+---
+
+## B. Mathematical AI Infrastructure
+
+Replacing heuristics with mathematical principles.
+
+- Toward Provably Safe Language Models
+- Designing a Stable and Principled Kanban System
+- A Simple Mathematical Boundary for Safe Relational Database Deployment
+- Explainable PQC
+- Proof is Beautiful
+
+---
+
+## C. AI-Enabled Accessibility
+
+Expanding human capability through AI.
+
+- The Accessibility Capability Boundary
+- Maximum Formalism, Maximum Humanity
+- GIGA for Sequential Art
+
+---
+
+## D. Earlier Explorations
+
+Foundational work leading to the current research direction.
+
+- AI-assisted Mathematics
+- Human-Finance Interaction
+- Einstein Machine
+- Graph Theory Analysis on Deep Neural Network Architecture
+- Visualization of Abstract Algebra
+- Polyomino Ideals
+
+---
+
+# Vision
+
+**Building the mathematics that expands human capability through AI.**
+
+---
+
+# Research Philosophy
+
+We believe AI should not merely automate work.
+
+It should systematically expand human capability.
+
+Our research seeks the mathematical principles governing that expansion—identifying both the possibilities and the fundamental limits of AI-enabled accessibility.
