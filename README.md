@@ -5,8 +5,16 @@
 
 > *Building the mathematical foundations that expand human capability through AI.*
 
-[日本語](README_JP.md) · [Publications](PUBLICATIONS.md) · [Research](RESEARCH.md) · [Projects](PROJECTS.md) · [Talks](TALKS.md)
+<p align="center">
 
+🇺🇸 **English** |
+🇯🇵 [日本語](README_JP.md) |
+📚 [Publications](PUBLICATIONS.md) |
+🧭 [Research](RESEARCH.md) |
+🚀 [Projects](PROJECTS.md) |
+🎤 [Talks](TALKS.md)
+
+</p>
 ---
 
 ## Research Vision
