@@ -66,7 +66,7 @@ AIを単なるソフトウェアではなく、人間能力を拡張する数学
 
 AI研究の基盤となる幾何学・組合せ論・格子理論を研究しています。
 
-**代表的研究**
+**代表的研究 - 2つとも新規アプローチで格子暗号ソルバーを構築する試み **
 
 - [Canonical Lattices and Integer Relations Associated to Rational Fans](https://arxiv.org/abs/2601.05678)
 
