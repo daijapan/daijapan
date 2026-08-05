@@ -36,7 +36,7 @@ AIを単なるソフトウェアではなく、人間能力を拡張する数学
 - [The Accessibility Capability Boundary](https://arxiv.org/abs/2605.19638)
 
   AIによるアクセシビリティの限界と拡張可能性を数学的に定式化する「Accessibility Capability Boundary (ACB)」を提案し、ブラウザのみで動作するAIアクセシビリティシステムの可能性を示します。
-  オペレーションリサーチ2026年秋季大会で発表
+  (オペレーションリサーチ2026年秋季大会で発表)
 
 - [Maximum Formalism, Maximum Humanity](PUBLICATIONS.md#maximum-formalism-maximum-humanity)
 
@@ -54,8 +54,7 @@ AIを単なるソフトウェアではなく、人間能力を拡張する数学
 
   耐量子暗号（PQC）の安全性仮定を、計算量理論・数学的構造・実験結果の3層から説明可能にするフレームワークを提案します。
 
-  情報処理学会 セキュリティ分科会(2025)で発表
-  九州大学マス・フォア・インダストリーワークショップ(2025)で発表
+  (情報処理学会 セキュリティ分科会(2025)で発表, 九州大学マス・フォア・インダストリーワークショップ(2025)で発表)
 
 - [Toward Provably Safe Language Models](PUBLICATIONS.md#toward-provably-safe-language-models)
 
